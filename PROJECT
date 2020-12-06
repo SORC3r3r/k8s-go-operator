@@ -1,0 +1,7 @@
+domain: sorc3r3r.com
+layout: go.kubebuilder.io/v2
+projectName: k8s-go-operator
+repo: github.com/SORC3r3r/k8s-go-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
